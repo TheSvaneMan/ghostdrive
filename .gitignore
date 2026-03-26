@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environments (don't upload your own test envs!)
+venv/
+.venv/
+env/
+ENV/
+bin/
+lib/
+include/
+
+# System files
+.DS_Store
+Thumbs.db
